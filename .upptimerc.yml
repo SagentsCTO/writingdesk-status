@@ -9,7 +9,7 @@ sites:
   - name: WritingDesk Lite
     url: https://writingdesklite.13apples.com
   - name: PropertyLens
-     url: https://propertylens.13apples.com/this-will-404-test
+    url: https://propertylens.13apples.com/this-will-404-test
 
 status-website:
   name: WritingDesk Status
