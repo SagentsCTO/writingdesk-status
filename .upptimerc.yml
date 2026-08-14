@@ -14,3 +14,4 @@ sites:
 status-website:
   name: WritingDesk Status
   introTitle: WritingDesk System Status
+  baseUrl: "/writingdesk-status"
